@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.dropdown-toggle {
+  background-color: #0d6efd!important; /* Override the default background color of the dropdown toggle */
+  border-color: #0d6efd !important; /* Override the default border color of the dropdown toggle */
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
